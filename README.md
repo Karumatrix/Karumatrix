@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome to my Github profile
 
-<!--
-**Karumatrix/Karumatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Karu, a passionate developer and lifelong learner. I enjoy working on challenging projects and exploring new technologies. Feel free to connect, collaborate, or just have a chat!
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Overall Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=karumatrix&show_icons=true&theme=radical)
+
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karumatrix&layout=compact&theme=radical)
+
+---
+
+## 🚀 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karumatrix&theme=radical)
+
+---
