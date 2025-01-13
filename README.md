@@ -7,6 +7,8 @@ I'm Karu, a passionate developer and lifelong learner. I enjoy working on challe
 ### Overall Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=karumatrix&show_icons=true&theme=radical)
 
+<!-- [![Karumatrix's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Karumatrix&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karumatrix&layout=compact&theme=radical)
 
